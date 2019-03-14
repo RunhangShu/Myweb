@@ -1,0 +1,17 @@
+---
+title: who afraid. live with worn cloth
+author: '11'
+date: '2019-03-14'
+slug: who-afraid-live-with-worn-cloth
+categories: []
+tags: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+```{r, cars}
+summary(cars)
+boxplot(cars)
+plot(cars$speed,cars$dist)
+```
