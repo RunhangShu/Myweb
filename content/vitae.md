@@ -8,7 +8,7 @@ output: html_document
 ---
 <br>&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;2601 SW Archer Rd, Gainesville, FL 32608
 <br>&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;(352)870-1015
-<br>&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp;[r.shu@ufl.edu](r.shu@ufl.edu)
+<br>&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp;[Email](r.shu@ufl.edu)
 
 **EDUCATION**
 
