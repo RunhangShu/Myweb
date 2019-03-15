@@ -1,13 +1,10 @@
 ---
 date: "2019-03-14" 
-title: About me
+title: "Welcome to Runhang base"
 ---
-
-**Welcome to Runhang's base**
----
-In here, I am gonna record some trivial matters in my life. My excitement and frustration of my reseach pathway. 
+In here, I am gonna record some trivial matters in my life. Excitements and frustrations of my reseach career. 
 I will consider here as "Wechat Moments"
-well! Extremely few people would know my secret base! 
+Well! Extremely few people would know my secret base! 
 If you happended to come across here, you are definetely.... super lucky. 
 
 ---
