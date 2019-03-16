@@ -23,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 2
     [[menu.main]]
     name="严肃扯谈"
-    url="/中文/"
+ 
 
 [params]
     description = "A boring blog talk about everything"
