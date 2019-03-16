@@ -10,19 +10,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "ABOUT"
     url = "/about/"
     weight = 3
 [[menu.main]]
-    name = "Vitae"
-    url = "/vitae/"
+    name = "VITAE"
+    url = "/vitae2/"
     weight = 1
 [[menu.main]]
-    name = "Twitter"
+    name = "TWITTER"
     url = "https://twitter.com/Darsonsu1"
     weight = 2
-    [[menu.main]]
-    name="严肃扯谈"
+
  
 
 [params]
