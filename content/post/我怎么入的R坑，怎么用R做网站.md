@@ -1,5 +1,5 @@
 ---
-title: "我怎么入的R坑，新手怎么用R做网站"
+title: ""
 author: "Runhang"
 date: "3/15/2019"
 output: html_document
