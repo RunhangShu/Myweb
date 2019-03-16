@@ -1,0 +1,96 @@
+---
+title: ""
+author: "Running"
+date: "3/16/2019"
+output: html_document
+---
+<font face= "FANGSONG" color=darkgreen size=9> Runhang Shu </font>
+&emsp;&emsp;&emsp;![](/./vitae2_files/fade.JPG){width=320px height=240px}
+
+
+---
+
+&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;2601 SW Archer Rd, Gainesville, FL 32608
+<br>&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;(352)870-1015
+<br>&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp;[Email](r.shu@ufl.edu)
+
+**EDUCATION**
+
+**B.S. Plant Protection** (September 2015 – Present)
+<br>•Huazhong Agricultural University, Wuhan, China. 
+<br>•Thesis Title: The susceptibility of brown planthopper, Nilaparvata lugens (Stål), to insecticides at elevated CO2 under a changing climate. 
+<br>•University of Florida, Gainesville, USA (August 2018 – Present)
+<br>•China Scholarship Council Program  
+
+---
+**RESEARCH EXPERIENCE**
+
+***Hubei Insect Resources Utilization and Sustainable Pest Management Key Laboratory (Dec 2016 – Jul 2018, Supervisor: Dr. Hu Wan)***
+<br>&emsp;•Evaluated three different classes of insecticides for trials, including nitenpyram, triflumezopyrim and flonicamid. 
+<br>&emsp;•Conducted bioassay experiment, analyzing data with DPS software. With the treatment of nitenpyram insecticide and 550mg/L CO2 environment, the LC50 of brown planthopper doubled when compared with 380mg/L CO2 and 750mg/L CO2 groups using the same insecticide. 
+<br>&emsp;•Conducted enzymatic assay, testing the activities of P450 monooxygenases (P450s), glutathione S-transferases (GSTs) and carboxylesterase (COEs). Improved the P450s enzymatic assay of brown planthopper. 
+<br>&emsp;•Developmental time, longevity, fecundity and hatchability were recorded to generate life table of brown planthopper. Biological traits were analyzed using the TWOSEX-MS Chart software. 
+<br>&emsp;•Submitted and revised the paper with Xu, I was responsible for writing the results and discussion sections. 
+<br>***Department of Entomology and Nematology of UF (Sep 2018 – present, 
+Supervisor: Dr. Adam C.N. Wong)***
+<br>&emsp;•Under my direction, our team successfully established of a thriving colony of non-biting midges (Diptera: Chironomidae) that can be used in a variety of host-microbial interaction research.
+<br>&emsp;•Assisting in the dissection of the chironomid larvae alimentary canal while preserving the internal microbiome for further analysis. 
+<br>&emsp;•I am also involved in Drosophila sugar preference experiment. To this end, our group generates axenic Drosophila and selectively incorporates bacteria commonly found in the Drosophila gut in order to observe the effects these microbes have on the fly’s dietary preferences. 
+<br>&emsp;•In the project of herbicide paraquat effects on Drosophila biologic traits, my responsibilities are counting the death number of flies and transfer alive flies to new tubes every two days. 
+
+---
+**REWARDS & HONORS**
+<br>&emsp;•China Scholarship Council (CSC) fellowship for Undergraduate Study Abroad Program. ($19,000 stipend for ten months)
+
+---
+
+**Records of Standard Exam**
+<br>&emsp;•GPA    3.33/4.0
+<br>&emsp;•IELTS   7.0/9.0 (Listening 7.0; Reading 8.5; Writing 6.0; Speaking 5.5)
+<br>&emsp;•GRE    318/340 (Verbal 154/170; Quantitative 164/170; Analytical Writing 3.0/6.0) 
+
+---
+**PUBLICATION**	
+<br>&emsp;Xu, P., **Shu, R.**, Gong, P., Li, W., Wan, H., Li, J., 2019. Sublethal and transgenerational effects of triflumezopyrim on the biological traits of the brown planthopper, Nilaparvata lugens (Stål) (Hemiptera: Delphacidae). Crop Protection 117, 63-68.
+
+---
+**INTERNSHIP EXPERIENCE**
+
+***“Contribution to Beautiful China’s Village” social work internship, leader of the team                                      (Jun 9 - 16, 2017)***
+<br>&emsp;•Organized a service trip to five remote villages located near Wuhan, China.
+<br>&emsp;•Visited with and discussed important issues concerning the local villagers, farmers, agricultural company management, and the local governor.
+<br>&emsp;•Drafted a report detailing potential flaws in the development of China’s villages while providing reasonable suggestions for improvement.
+<br>&emsp;•Produced, filmed, and edited a press release about this internship experience to be displayed on the campus website.
+<br>&emsp;
+
+
+**Dabie Mountain Internship (Aug 19 - 26, 2017)**
+<br>&emsp;•I lead a team of five students as we set up light traps in order to collect a variety of insects on Dabie Mountains, a major mountain range located in central China.
+<br>&emsp;•	We were able to collect hundreds of insects spanning over 100 genera in 12 orders. We then preserved these specimens for teaching in Entomology course. 
+
+---
+**SKILLS**
+<br>&emsp;•Proficient in Excel, PowerPoint, MS Word, Endnote
+<br>&emsp;•	Programming: R, SPSS, DPS
+<br>&emsp;•	Molecular biology: PCR, DNA extraction, Gel electrophoresis  
+&emsp;•	Biochemistry: Enzymatic Assay, Nutritional Assay, Spectrophotometry
+<br>&emsp;•	Metagenomics: Nanopore, MG-RAST
+
+---
+**HOBBIES**
+<br>&emsp;•Cooking
+<br>&emsp;•	Basketball, member of University of Florida Chinese Basketball Team
+
+---
+**References**
+
+**Dr. Yan Jianbing**<br> Dean of College of Plant Science & Technology, Huazhong Agricultural University, 1st Shizishan Street, Wuhan, China 430070
+   Phone: 027-87280110, [Email](yjianbing@mail.hzau.edu.cn)
+	
+**Dr. Wan Hu**<br> Hubei insect Resources Utilization and Sustainable Pest Management Key Laboratory, 1st Shizishan Street, Wuhan, China 430070
+   Phone: 86-27-87286991, [Email](huwan@mail.hzau.edu.cn)
+
+**Dr. Adam CN Wong**<br> Department of Entomology and Nematology, UF/IFAS, 1881 Natural Area Drive, Gainesville, FL 32611
+   Phone: 352-273-3977, [Email](amdamcnwong@ufl.edu) 
+
+
