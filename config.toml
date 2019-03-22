@@ -21,7 +21,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "TWITTER"
     url = "https://twitter.com/Darsonsu1"
     weight = 2
-
+[[menu.main]]
+    name = "严肃扯谈"
+    url = "/post2/"
+    weight = 4
  
 
 [params]
