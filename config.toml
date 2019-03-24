@@ -1,0 +1,53 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "润航的军火库"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "ABOUT"
+    url = "/about/"
+    weight = 3
+[[menu.main]]
+    name = "VITAE"
+    url = "/vitae2/"
+    weight = 4
+[[menu.main]]
+    name = "TWITTER"
+    url = "https://twitter.com/Darsonsu1"
+    weight = 2
+[[menu.main]]
+    name = "思想报告"
+    url = "/post2/"
+    weight = 5
+    [[menu.main]]
+    name = "R"
+    url = "/r/"
+    weight = 1
+
+[params]
+    description = "A boring blog talk about everything"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "favicon2.ico"
+    width = 150
+    height = 300
+    alt = "Logo"
+
