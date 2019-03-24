@@ -1,0 +1,112 @@
+---
+title: Query and Summary Data
+author: ''
+date: '2019-03-24'
+slug: query-and-summary-data
+categories: []
+tags: []
+---
+
+
+
+<p><strong>cars</strong> is a dataset already exist in R when you download R</p>
+<p><font color="red">Let’s use cars as an example to familarize some basic function for querying data in R</font></p>
+<pre class="r"><code>head(cars) #first couple of lines in the data
+##   speed dist
+## 1     4    2
+## 2     4   10
+## 3     7    4
+## 4     7   22
+## 5     8   16
+## 6     9   10
+tail(cars) #last couple of lines in the data
+##    speed dist
+## 45    23   54
+## 46    24   70
+## 47    24   92
+## 48    24   93
+## 49    24  120
+## 50    25   85
+colnames(cars) #column names
+## [1] &quot;speed&quot; &quot;dist&quot;
+dim(cars) #dimensions of the dataset (first number is number of rows, second number is number of columns)
+## [1] 50  2
+ncol(cars) #number of columns
+## [1] 2
+nrow(cars) #number of rows
+## [1] 50
+str(cars) #structure of the object
+## &#39;data.frame&#39;:    50 obs. of  2 variables:
+##  $ speed: num  4 4 7 7 8 9 10 10 10 11 ...
+##  $ dist : num  2 10 4 22 16 10 18 26 34 17 ...
+summary(cars) #summarizes the data by calculating summary statistics for each variable
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+unique(cars$speed) #determines the unique species labels
+##  [1]  4  7  8  9 10 11 12 13 14 15 16 17 18 19 20 22 23 24 25
+cars$speed #Getting all the data, which is different from unique function
+##  [1]  4  4  7  7  8  9 10 10 10 11 11 12 12 12 12 13 13 13 13 14 14 14 14
+## [24] 15 15 15 16 16 17 17 17 18 18 18 18 19 19 19 20 20 20 20 20 22 23 24
+## [47] 24 24 24 25
+table(cars$speed) #counts the number of individuals (i.e., rows) in each speed
+## 
+##  4  7  8  9 10 11 12 13 14 15 16 17 18 19 20 22 23 24 25 
+##  2  2  1  1  3  2  4  4  4  3  2  3  4  3  5  1  1  4  1</code></pre>
+<p><font color="red">Let’s have more fun</font></p>
+<pre class="r"><code>z=read.table(&#39;Diameter_1983_2010.txt&#39;,header=T,as.is=T)
+vec=z$dia83&lt;0 | z$dia83&gt;9000 #which rows have dia83&lt;0 or dia83&gt;9000?
+z[vec,&#39;dia83&#39;]=NA #set dia83 for the rows that satisfy the query above to missing data (i.e., NA)
+#in other words, eliminate bizarre measurements
+range(z$dia83,na.rm=T) #has this worked? Look at range
+## [1]    1 1870
+mean(z$dia83,na.rm=T) #calculate the mean of diameter in 1983 
+## [1] 288.9371
+var(z$dia83,na.rm=T) #calculate the variance of diameter in 1983
+## [1] 160163.8
+median(z$dia83,na.rm=T) #calculate the median of diameter in 1983
+## [1] 67
+#notice large difference between mean and median
+
+quantile(z$dia83,c(0.05,0.5,0.95),na.rm=T) #notice that median is the 0.5 quantile
+##      5%     50%     95% 
+##    2.55   67.00 1170.00
+#these results imply that 90% of our observation lie between 2.55 and 1170.00
+
+#we can get summary statistics per species too using the &quot;aggregate&quot; function
+aggregate(dia83~species,data=z,mean) #calculates the mean of &#39;dia83&#39; by species
+##   species    dia83
+## 1      Be 368.4126
+## 2      Dp 515.2329
+## 3      Ha 577.0044
+## 4      Hm 280.4274
+## 5      La 194.6925
+## 6      Mg 113.2933
+aggregate(dia83~species,data=z,median) #calculates the median of &#39;dia83&#39; by species
+##   species dia83
+## 1      Be 205.0
+## 2      Dp 446.0
+## 3      Ha 538.0
+## 4      Hm  86.5
+## 5      La  15.3
+## 6      Mg  44.0
+aggregate(dia83~species,data=z,sd) #calculates the standard deviation of &#39;dia83&#39; by species
+##   species    dia83
+## 1      Be 384.9369
+## 2      Dp 507.3029
+## 3      Ha 460.2621
+## 4      Hm 413.6804
+## 5      La 356.0362
+## 6      Mg 155.5203
+aggregate(dia83~species,data=z,range) #calculates the range of &#39;dia83&#39; by species
+##   species dia83.1 dia83.2
+## 1      Be     1.0  1360.0
+## 2      Dp     2.8  1870.0
+## 3      Ha     4.8  1870.0
+## 4      Hm     1.6  1420.0
+## 5      La     1.2  1610.0
+## 6      Mg     1.9   820.0</code></pre>

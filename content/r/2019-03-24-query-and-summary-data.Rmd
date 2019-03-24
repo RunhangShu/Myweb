@@ -1,0 +1,50 @@
+---
+title: Query and Summary Data
+author: ''
+date: '2019-03-24'
+slug: query-and-summary-data
+categories: []
+tags: []
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+**cars** is a dataset already exist in R when you download R
+
+<font color="red">Let's use cars as an example to familarize some basic function for querying data in R</font>
+```{r cars}
+head(cars) #first couple of lines in the data
+tail(cars) #last couple of lines in the data
+colnames(cars) #column names
+dim(cars) #dimensions of the dataset (first number is number of rows, second number is number of columns)
+ncol(cars) #number of columns
+nrow(cars) #number of rows
+str(cars) #structure of the object
+summary(cars) #summarizes the data by calculating summary statistics for each variable
+unique(cars$speed) #determines the unique species labels
+cars$speed #Getting all the data, which is different from unique function
+table(cars$speed) #counts the number of individuals (i.e., rows) in each speed
+```
+
+<font color="red">Let's have more fun</font>
+```{r}
+z=read.table('Diameter_1983_2010.txt',header=T,as.is=T)
+vec=z$dia83<0 | z$dia83>9000 #which rows have dia83<0 or dia83>9000?
+z[vec,'dia83']=NA #set dia83 for the rows that satisfy the query above to missing data (i.e., NA)
+#in other words, eliminate bizarre measurements
+range(z$dia83,na.rm=T) #has this worked? Look at range
+mean(z$dia83,na.rm=T) #calculate the mean of diameter in 1983 
+var(z$dia83,na.rm=T) #calculate the variance of diameter in 1983
+median(z$dia83,na.rm=T) #calculate the median of diameter in 1983
+#notice large difference between mean and median
+
+quantile(z$dia83,c(0.05,0.5,0.95),na.rm=T) #notice that median is the 0.5 quantile
+#these results imply that 90% of our observation lie between 2.55 and 1170.00
+
+#we can get summary statistics per species too using the "aggregate" function
+aggregate(dia83~species,data=z,mean) #calculates the mean of 'dia83' by species
+aggregate(dia83~species,data=z,median) #calculates the median of 'dia83' by species
+aggregate(dia83~species,data=z,sd) #calculates the standard deviation of 'dia83' by species
+aggregate(dia83~species,data=z,range) #calculates the range of 'dia83' by species
+```
