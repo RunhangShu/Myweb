@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rs on 润航的军火库</title>
+    <link>/r/</link>
+    <description>Recent content in Rs on 润航的军火库</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Query and Summary Data</title>
+      <link>/r/query-and-summary-data/</link>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/r/query-and-summary-data/</guid>
+      <description>cars is a dataset already exist in R when you download R
+Let’s use cars as an example to familarize some basic function for querying data in R
+head(cars) #first couple of lines in the data ## speed dist ## 1 4 2 ## 2 4 10 ## 3 7 4 ## 4 7 22 ## 5 8 16 ## 6 9 10 tail(cars) #last couple of lines in the data ## speed dist ## 45 23 54 ## 46 24 70 ## 47 24 92 ## 48 24 93 ## 49 24 120 ## 50 25 85 colnames(cars) #column names ## [1] &amp;quot;speed&amp;quot; &amp;quot;dist&amp;quot; dim(cars) #dimensions of the dataset (first number is number of rows, second number is number of columns) ## [1] 50 2 ncol(cars) #number of columns ## [1] 2 nrow(cars) #number of rows ## [1] 50 str(cars) #structure of the object ## &amp;#39;data.</description>
+    </item>
+    
+    <item>
+      <title>Visualize Your Data(壹)</title>
+      <link>/r/visualize-your-data/</link>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/r/visualize-your-data/</guid>
+      <description>data&amp;lt;-read.csv(&amp;quot;primates data.csv&amp;quot;) data ## When we look at this data, we can see there are a lot of NA and we want to get rid of them ## Spp Bodywt Brainwt ## 1 Potar monkey 10.0 115 ## 2 Gorilla 207.0 406 ## 3 Human 62.0 1320 ## 4 Rhesus monkey 6.8 179 ## 5 Chimp 52.2 440 ## 6 NA NA ## 7 NA NA ## 8 NA NA ## 9 NA NA ## 10 NA NA ## 11 NA NA ## 12 NA NA ## 13 NA NA vec=is.</description>
+    </item>
+    
+  </channel>
+</rss>
