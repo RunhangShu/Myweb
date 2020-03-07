@@ -11,7 +11,7 @@ tags: []
 
 - 营养学的必修专业课包括
 
-&emsp;&emsp;<font color=green>营养学基础 (Fundamentals ofNutrition)、初级食品科学 (Introduction to FoodScience)、初级食品科学实验 (Introductory FoodScience Lab)、初级营养科学 (Introduction toNutritional Sciences)、初级营养科学实验 (Introduction toNutritional Sciences, laboratory)、营养评估 (Assessment ofNutritional Status)、营养评估实验 (Assessment ofNutritional Status, laboratory)、生命营养学 ( Nutrition ThoroughLife Cycle)、疾病营养管理 (Medical NutritionalTherapy, 一共两学期)、分子营养学 ( Cellular andMolecular Nutrition)、分子营养学实验 ( Cellular andMolecular Nutrition,, laboratory )、高级营养学 (Advanced NutritionalScience)、矿物质与维生素 (Mineral andVitamins)、营养教育与咨询 ( NutritionalEducation and Counseling)、社区营养 ( CommunityNutrition)、营养与健康问题写作 (Issues inNutrition and Health)、营养执业标准和职业道德 (Standards,Ethics, and Credentialing for DieteticsPractice)。</font>
+&emsp;&emsp;<font color='green'>营养学基础 (Fundamentals ofNutrition)、初级食品科学 (Introduction to FoodScience)、初级食品科学实验 (Introductory FoodScience Lab)、初级营养科学 (Introduction toNutritional Sciences)、初级营养科学实验 (Introduction toNutritional Sciences, laboratory)、营养评估 (Assessment ofNutritional Status)、营养评估实验 (Assessment ofNutritional Status, laboratory)、生命营养学 ( Nutrition ThoroughLife Cycle)、疾病营养管理 (Medical NutritionalTherapy, 一共两学期)、分子营养学 ( Cellular andMolecular Nutrition)、分子营养学实验 ( Cellular andMolecular Nutrition,, laboratory )、高级营养学 (Advanced NutritionalScience)、矿物质与维生素 (Mineral andVitamins)、营养教育与咨询 ( NutritionalEducation and Counseling)、社区营养 ( CommunityNutrition)、营养与健康问题写作 (Issues inNutrition and Health)、营养执业标准和职业道德 (Standards,Ethics, and Credentialing for DieteticsPractice)。</font>
 
 &emsp;&emsp;这相当于大学四年本科的学习了！！！哎，我本以为两三门课就可以拿下的。可能这个就是比较专业的营养师了，涉及到病理，医学等方方面面，和我想的健身房教练有点不一样。健身房的coach就可能学的比较窄，专攻减肥与健美的饮食。评估健身餐健不健康，我觉得还得多学点东西，不是那么简单的蛋白质】卡路里摄入量可以算出来的。我用果蝇做实验发现
 
