@@ -14,7 +14,7 @@ output: html_document
 
 # Resources (Update:Jun 1, 2020)
 
-1. [An introduction to Applied Bioinformatics] (http://readiab.org/) 
+1. [An introduction to Applied Bioinformatics](http://readiab.org/) 
 
 这本教材由qiime的第一作者[Gregory Caporaso](http://caporasolab.us/projects/)撰写,完全开源，完全免费。用行动在致力于**open data, transparent and reproducible science**。他也是Qiime2的开发者，目前在North Arizona Univ任职。所以我认为任何想从纯微生物组学转到应用生物信息学，并且想做微生物组方面的研究，那么这个教材就是入门级神书了，可以用binder在线跑代码。
 
