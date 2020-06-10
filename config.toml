@@ -19,7 +19,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 4
 [[menu.main]]
     name = "TWITTER"
-    url = "https://twitter.com/Darsonsu1"
+    url = "https://twitter.com/Runhang1"
     weight = 2
 [[menu.main]]
     name = "思想报告"
@@ -47,7 +47,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     [params.logo]
     url = "favicon2.ico"
-    width = 300
-    height = 600
+    width = 600
+    height = 1200
     alt = "Logo"
 
