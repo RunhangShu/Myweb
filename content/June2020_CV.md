@@ -1,6 +1,6 @@
  																		<font size=5> **Runhang Shu** </font>
 
-<img src="/./vitae2_files/fade.JPG" style="zoom:6%;" />
+<img src="/./vitae_files/fade.JPG" style="zoom:6%;" />
 
  			1881 Natural Area Drive, Steinmetz Hall, Gainesville, FL 32611-0620
 																				 (352)870-1015
