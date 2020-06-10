@@ -1,8 +1,4 @@
----
-title: ""
-author: "Run"
-date: "3/14/2019"
-output: html_document
+
 ---
  &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<font face= "FANGSONG" color=darkgreen size=6> Runhang Shu </font>
 
