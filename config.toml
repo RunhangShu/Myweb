@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "润航的军火库"
+title = "Runhang's website"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 3
 [[menu.main]]
     name = "VITAE"
-    url = "https://github.com/RunhangShu/cnm/blob/master/content/June2020_CV.md"
+    url = "/vitae2/"
     weight = 4
 [[menu.main]]
     name = "TWITTER"
