@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 3
 [[menu.main]]
     name = "VITAE"
-    url = "/vitae2/"
+    url = "/June2020_CV/"
     weight = 4
 [[menu.main]]
     name = "TWITTER"
@@ -47,7 +47,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     [params.logo]
     url = "favicon2.ico"
-    width = 150
-    height = 300
+    width = 300
+    height = 600
     alt = "Logo"
 
