@@ -6,14 +6,12 @@ output: html_document
 ---
 
 
- 																		<font size=5> **Runhang Shu** </font>
+<font size=5> **Runhang Shu** </font>
 
 <img src="/./public/vitae2_files/IMG_0497.JPG" style="zoom:3%;" />
-
- 									1881 Natural Area Drive, Steinmetz Hall, Gainesville, FL 32611-0620
-																				 (352)870-1015
-
- 																						  [Email](r.shu@ufl.edu)
+1881 Natural Area Drive, Steinmetz Hall, Gainesville, FL 32611-0620
+(352)870-1015
+[Email](r.shu@ufl.edu)
 
 ## EDUCATION
 
