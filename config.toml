@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 3
 [[menu.main]]
     name = "VITAE"
-    url = "/content/June2020_CV copy/"
+    url = "/June2020_CV copy/"
     weight = 4
 [[menu.main]]
     name = "TWITTER"
