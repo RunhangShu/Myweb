@@ -1,17 +1,9 @@
----
-title: ""
-author: "Run"
-date: "3/14/2019"
-output: html_document
----
-
 
 ## Runhang Shu
-<img src="/./public/vitae2_files/IMG_0497.JPG" style="zoom:3%;" />
+<img src="/./public/vitae2_files/fade.JPG" style="zoom:20%;" />
 1881 Natural Area Drive, Steinmetz Hall, Gainesville, FL 32611-0620
 (352)870-1015
 [Email](r.shu@ufl.edu)
----
 
 ## EDUCATION
 
