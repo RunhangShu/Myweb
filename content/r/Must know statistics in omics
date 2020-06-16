@@ -1,0 +1,14 @@
+---
+title: "Must know statistics in omics"
+author: "Runhang"
+date:  '2020-06'
+output: html_document
+---
+
+## Introduction
+
+  Many people working on omics have a strong background about the biological
+pipeline and principle of NGS. But many at least folks around me seems like lack a
+solid background about statistics to handle and interpret the sequencing results.
+Here, I would like to highlight the statistical and computational skills we need
+for analyzing amplicon data, RNA-seq data and Metabolomic data.
