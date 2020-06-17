@@ -22,4 +22,4 @@ Workflow: spectra collection, raw data processing, statistical and functional an
 Whether the peak detection is reliable, how to reduce noise for extracting real
 compound signals
 - Batch effect: Samples may change over time, needs quality control (EigenMS)
-- pathway activity predition: needs to annoate metabolites first
+- pathway activity predition: needs to annoate metabolites first (mummichog)
