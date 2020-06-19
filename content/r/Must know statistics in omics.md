@@ -27,3 +27,17 @@ compound signals
 - Batch effect: Samples may change over time, needs quality control (EigenMS)
 
 - pathway activity prediction: needs to annotate metabolites first (mummichog)
+
+When we do an untargeted LC-MS, we often want to identify the molecule and then do
+the downstream enrichment and pathway analysis. The common used database is [METLIN](https://metlin.scripps.edu/landing_page.php?pgcontent=mainPage). However determining molecule simply based on molecular mass (m/z)
+is controversial because with one m/z, you often get several matched chemical compounds.
+Secondly, selecting candidate features (m/z) is required good statistical skills.
+Imagine you have 3 samples for each of two treatments, adjusted p-value (FRD) from t test or log fold change
+,which is one should we look? Assume the concentrations of a metabolite in the control are 19000,
+700, and 1000, contrasting to treatment A that does not have the metabolite.
+
+```
+t.test(c(19000,700,1000),c(0,0,0))
+```
+
+Suprisingly, the unadjusted p-value from the t-test is 0.37
