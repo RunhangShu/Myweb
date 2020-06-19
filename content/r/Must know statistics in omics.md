@@ -1,7 +1,7 @@
 ---
 title: "Must know statistics in omics"
 author: "Runhang"
-date:  '2020-06'
+date:  '2020-06-19'
 output: html_document
 ---
 
@@ -17,9 +17,13 @@ for analyzing amplicon data, RNA-seq data and Metabolomic data.
 ## Metabolomic
 
 Workflow: spectra collection, raw data processing, statistical and functional analysis
+
 **Things to consider when doing analysis**
-- Parameter optimization: set a customized paramater is important;
+
+- Parameter optimization: set a customized parameter is important;
 Whether the peak detection is reliable, how to reduce noise for extracting real
 compound signals
+
 - Batch effect: Samples may change over time, needs quality control (EigenMS)
-- pathway activity predition: needs to annoate metabolites first (mummichog)
+
+- pathway activity prediction: needs to annotate metabolites first (mummichog)
