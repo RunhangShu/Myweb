@@ -40,4 +40,4 @@ Imagine you have 3 samples for each of two treatments, adjusted p-value (FRD) fr
 t.test(c(19000,700,1000),c(0,0,0))
 ```
 
-Suprisingly, the unadjusted p-value from the t-test is 0.37
+Surprisingly, the unadjusted p-value from the t-test is 0.37
