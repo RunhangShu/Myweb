@@ -26,4 +26,4 @@ insect olfaction study.
 ### Rational:
 1. First, they did a set of behavior assays that found out _D. suzukii_ prefer to lay eggs in ripe/fresh fruit over rotten fruit
 
-<img src="/post/SWD_fig1.png" alt="" width="500px" height="300px"/>
+<img src="/post/pics/SWD_fig1.png" alt="" width="500px" height="300px"/>
