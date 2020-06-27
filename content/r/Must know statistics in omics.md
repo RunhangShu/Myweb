@@ -37,7 +37,17 @@ Imagine you have 3 samples for each of two treatments, adjusted p-value (FRD) fr
 700, and 1000, contrasting to treatment A that does not have the metabolite.
 
 ```
-t.test(c(19000,700,1000),c(0,0,0))
+t.test(c(19000,700,1000,9000),c(0,0,0,0))
+```
+Surprisingly, the unadjusted p-value from the t-test is 0.37.
+
+```
+t.test(c(log(19000),log(700),log(1000),log(9000)),c(0,0,0,0))
 ```
 
-Surprisingly, the unadjusted p-value from the t-test is 0.37
+After the log-transformation, the unadjusted p-value  is 0.002. Therefore, log-transformation is critical for
+
+getting a better candidate, otherwise, some good candidate might be omitted by huge standard deviation.
+
+In other words, you might find a feature with 30,31,29,31 which significantly differs from control group
+of 0,1,0,1, but this feature probably is not the feature you are trying to find.
