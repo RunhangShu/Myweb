@@ -42,6 +42,6 @@ with contact chemosensation, contribute to the oviposition behavior of _D. suzuk
 1. I have to say that it is the beautiful and well-designed behavior assays that make this article published on Current Biology;
 2. To verify locomotor activity in mutant flies was not affected, they also did negative geotaxis test - counting how many time the fly acclimated cross the midline of a vail.  
 3. To my best knowledge, although _D.suzukii_ study is getting more popular, this is the first paper to date conducted genetic
-manipulation using Gal4 and CRISPR on this beast.
+manipulation using Gal4 and CRISPR on this beast. Specifically, 5' _Orco_ regulatory regions orthologous to those of _D.melanogaster_ were amplified and subsequently cloned into Gal4 transformation vector.  
 4. Electroantennography (EAG)
 5. Antibody orco protein staining was performed on fly brains and antennae. Imaging on a confocal microscope.
