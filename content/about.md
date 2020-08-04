@@ -8,6 +8,7 @@ Hey！🔥Welcome to Runhang's base🔥
 &emsp;&emsp;I am currently a master student at [Wong lab.](http://entnemdept.ufl.edu/people-directory/adam-cn-wong/)
 
 - Research interests 
+
 &emsp;&emsp;We are living a microbial world where all animals are intimately associated with microbes. The animal hosts have co-evolved with the microbes inhabiting in their body (i.e. gut). While human genome is hard to edit, the gut microbial community and its collective genetic materials are easy to amend through diet (prebiotics) and probiotics (dietary beneficial microbes), providing novel tactcics to improve human health. My goal is to use Drosophila model to illunimate the underlying mechanisms of microbiome-mediated host physiology (e.g. nutritional state and appetite). 
 
 &emsp;&emsp; To translate the Drosophila study to practice (Lactobacillus represent a good example), we have to study human gut microbial ecology! Our understanding about microbiome ecology is limited as out guts are housing >1000 bacteria taxa (some fungi&virus). Futhermore, the majority of these microbes are unable to be cultured in laboratory. The functional redundency of gut microbiome adds another layer of complexity of gut microbiome ecology. ONLY mathematic modeling based on machine learning can give us a clearer blueprint. No one has done it yet, even Rob Knight.
