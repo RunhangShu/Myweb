@@ -14,7 +14,7 @@ Here, I would like to highlight the statistical and computational skills we need
 for analyzing amplicon data, RNA-seq data and Metabolomic data.
 
 
-## Metabolomic
+## Metabolomic an example 
 
 Workflow: spectra collection, raw data processing, statistical and functional analysis
 
