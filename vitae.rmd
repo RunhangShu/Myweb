@@ -11,7 +11,7 @@ output: html_document
 
 1881 Natural Area Drive, Steinmetz Hall, Gainesville, FL, 32611-0620
 
-[Emale](mailto:r.shu@ufl.edu)
+[Email](mailto:r.shu@ufl.edu)
 
 </center>
 ##<u>EDUCATION </u>
