@@ -32,7 +32,7 @@ the downstream enrichment and pathway analysis. The common used database is [MET
 is controversial because with one m/z, you often get several matched chemical compounds.
 Secondly, selecting candidate features (m/z) is required good statistical skills.
 
-##Data pre-processing matters
+## Data pre-processing matters
 
 **log-transformation and scale**
 Imagine you have 3 samples for each of two treatments, and the concentrations of a metabolite in the control are 19000,

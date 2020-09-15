@@ -1,5 +1,5 @@
 ---
-title: "Bioinformatics in Microbiome"
+title: "Microbiome analysis"
 author: "舒润航"
 date: "2020-06-01"
 output: html_document
