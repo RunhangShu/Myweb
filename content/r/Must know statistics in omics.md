@@ -15,7 +15,7 @@ for analyzing amplicon data, RNA-seq data and Metabolomic data.
 
 ## Metabolomics as an example
 
-Start with metabolomics is a good choice to get familiar with stats because metabolomics data are identical to any other omics data with a miniature size. For all traditional omics data, all we need for stats is a data frame with features (i.e metabolites, genes ID, bacterial taxa) in rows and treatments in columns. Single-cell RNA seq data are normally objects in R dependent on the packages and sequencing methods. If it is an object data then you cannot actually see it.
+Start with metabolomics is a good choice to get familiar with stats in omics because metabolomics data are identical to any other omics data but with a miniature size. For all traditional omics data, all we need for stats is a data frame with features (i.e metabolites, genes ID, bacterial taxa) in rows and treatments in columns. Single-cell RNA seq data are normally objects in R dependent on the packages and sequencing methods. If it is an object data then you cannot actually see it.
 
 Workflow of metabolomics: spectra collection, raw data processing, statistical and functional analysis
 
@@ -58,4 +58,4 @@ of 0,1,0,1, but this feature probably is not the feature you are trying to find.
 Remember if you have 100 metabolites, you actually did *100 times t-test* between the treatments. Statistically, there is probably 5%
 chances that the results are false positive. This is also know as False Discover Rate (FDR). Therefore, we need to adjust the p-value
 to draw a prudent conclusion. There are many methods to correct p-value including Bonferroni and Benjamini-Hochberg. This [thread](https://www.researchgate.net/post/What_is_your_prefered_p-value_correction_for_multiple_tests) nicely
-discussed which method to choice and which is more stringent and which is less stringent. As I always joke with my ecology friend: omics statistics is old school and there is a 10-year gap between omics analysis and ecology-oriented statistics.
+discussed which method to choice and which is more stringent and which is less stringent. As I always joke with my ecology friend: omics statistics is old school and there is a 10-year gap when compared with the ecology-oriented statistics.
