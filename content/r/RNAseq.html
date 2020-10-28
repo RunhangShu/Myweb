@@ -3,7 +3,7 @@ title: "RNA-seq analysis"
 author: "Runhang"
 date: "2019-12-31"
 output: html_document
-abstract: \singlespacing 
+abstract: \singlespacing
 ---
 
 
@@ -27,8 +27,8 @@ abstract: \singlespacing
 #SBATCH --error=fastqc.err
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --mem=20gb.   
-#(Note: The command above is typically what we need include in a bash file, 
+#SBATCH --mem=20gb.
+#(Note: The command above is typically what we need include in a bash file,
 #in which you tell how many memories, how much time you request)</code></pre>
 <p>module load fastqc <br />fastqc ENCFF000ESM.fastq <br />fastqc ENCFF000ESS.fastq</p>
 <p><em>Results</em> <br />Once completed, we will get html files containing basic info of the fastq file such as total reads, GC content, sequence length, and most importantly the per base sequence quality (see the figure below)</p>
