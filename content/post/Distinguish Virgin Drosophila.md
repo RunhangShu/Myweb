@@ -23,7 +23,8 @@ Continue to use *D. suzukii* (Spotted Wing Drosophila) as an example. After sexu
 </center>
 <img src="/post/pics/female.png" alt="female" style="zoom:30%;" />
 </center>
-For male, we can see instead of two petals closing up like in female, two sclerotized, dark, "canine teeth" openning up, which are the genital claspers. 
+
+For male, we can see instead of two petals closing up like in female, two sclerotized, dark, "canine teeth" openning up, which are the genital claspers of male. 
 
 </center>
 <img src="/post/pics/male.png" alt="male" style="zoom:33%;" />
