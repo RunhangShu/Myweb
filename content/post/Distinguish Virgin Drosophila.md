@@ -1,3 +1,9 @@
+---
+title: Distinguish Virgin *Drosophila
+author: 'Runhang'
+date: '2020-12-08'
+
+---
 ### Distinguish Virgin *Drosophila* 
 
 In fly genetics study or fly behavior study, we often need virgin females. Here, I will demo how to identify the virgins with simply two steps!
