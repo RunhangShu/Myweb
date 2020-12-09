@@ -1,5 +1,5 @@
 ---
-title: Distinguish Virgin *Drosophila
+title: Distinguish Virgin Drosophila
 author: 'Runhang'
 date: '2020-12-08'
 
