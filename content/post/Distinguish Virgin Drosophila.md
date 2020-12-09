@@ -32,5 +32,5 @@ For male, we can see instead of two petals closing up like in female, two sclero
 
 
 **Note**
-1. "body size" is not a good indicator. 
-2. CO<sub>2</sub> might impair the flies' certain functions, so give fly two days to recover for future experiments.  
+- "body size" is not a good indicator. 
+- CO<sub>2</sub> might impair the flies' certain functions, so give fly two days to recover for future experiments.  
