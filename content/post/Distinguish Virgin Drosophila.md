@@ -6,7 +6,7 @@ date: '2020-12-08'
 ---
 
 
-In fly genetics study or fly behavior study, we often need virgin females. Here, I will demo how to identify the virgins with simply two steps!
+In fly genetics or fly behavior study, we often need to sort virgin females. Here, I will demo how to identify the virgins with simply two steps!
 
 #### **Step one: find the dark spot in the abdomen**
 
@@ -20,12 +20,17 @@ In fly genetics study or fly behavior study, we often need virgin females. Here,
 
 Continue to use *D. suzukii* (Spotted Wing Drosophila) as an example. After sexual maturation (normally takes two days), females and males are easy to identify in that male *D. suzukii* have a pair of black spots on the tip of the wings. However newly emerged female and male flies are relatively harder to distinguish. In this case, the most easiest way is to look carefully at the tip of the abdomen. For female, we can see the **serrated ovipositor composed of two symmetrical and sharp petals.** 
 
-</center>
+<center>
 <img src="/post/pics/female.png" alt="female" style="zoom:30%;" />
 </center>
 
 For male, we can see instead of two petals closing up like in female, two sclerotized, dark, "canine teeth" openning up, which are the genital claspers of male. 
 
-</center>
+<center>
 <img src="/post/pics/male.png" alt="male" style="zoom:33%;" />
 </center>
+
+
+**Note**
+1. "body size" is not a good indicator. 
+2. CO<sub>2</sub> might impair the flies' certain functions, so give fly two days to recover for future experiments.  
