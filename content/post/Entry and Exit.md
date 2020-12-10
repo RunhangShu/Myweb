@@ -19,4 +19,4 @@ Netizen replies:
 
 Sorry for my poor translation lol, did you get that?
 
-Yi Rao is my favorite scientist. I assume here Dr. Rao implied that some "big names" in academia lost the credibility because of scientific misconduct.
+(Yi Rao is my favorite scientist. I assume here Dr. Rao implied that some "big names" in academia lost the credibility because of scientific misconduct.)
