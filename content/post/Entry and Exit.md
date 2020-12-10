@@ -1,3 +1,9 @@
+---
+title: Entry and Exit
+author: 'Runhang'
+date: '2020-12-09'
+
+---
 
 "First half of life, people debut because of good merits;
 
