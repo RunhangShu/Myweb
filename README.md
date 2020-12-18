@@ -6,5 +6,5 @@ The Hugo template is licensed under MIT, and the content of all pages is license
 You can clone this repository with 
 
 ```
-git clone --recursive https://github.com/Runhang/cnm.git
+git clone --recursive https://github.com/RunhangShu/cnm.git
 ```
