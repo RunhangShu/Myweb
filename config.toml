@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 3
 [[menu.main]]
     name = "VITAE"
-    url = "https://uflorida-my.sharepoint.com/:b:/g/personal/r_shu_ufl_edu/EV_J7e0MMBhFhJ4963wjFJIB0TE0gDmj37cicrNkl_ql_g?e=80teqA"
+    url = "https://uflorida-my.sharepoint.com/:w:/r/personal/r_shu_ufl_edu/_layouts/15/Doc.aspx?sourcedoc=%7B7497ED2C-41FA-4762-B96E-9B91EE81A1D1%7D&file=CV_12162020.docx&action=default&mobileredirect=true"
     weight = 4
 [[menu.main]]
     name = "TWITTER"
