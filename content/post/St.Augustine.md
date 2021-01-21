@@ -25,8 +25,6 @@ DAY 1 （上午1，下午2-3）
 
 TIPS：关于行程路线以及吃喝的问题如图
 
-![image-20200702181920013](/Users/mirandazhou/Library/Application Support/typora-user-images/image-20200702181920013.png)
-
 DAY 2 （上午1-3，下午4-6）
 
 1. **Castillo de San Marcos** <u>1S Castillo Dr, St. Augustine, FL 32084</u> :圣马可斯城堡（Castillo de San Marcos）是西班牙人在17世纪修建的五角形要塞，现在仍然保存完好，周末还有历史场景还原表演， 历史悠久的堡垒，提供自助游（从吊桥到炮台甲板），可欣赏马坦萨斯湾的美景。(暂停营业，只能看外景)![Castillo de San Marcos - St. Augustine Adventure](https://urldefense.proofpoint.com/v2/url?u=https-3A__staugustineadventure.com_wp-2Dcontent_uploads_2018_01_castillo-5Fde-5Fsan-5Fmarcos-5Faerial-5Fview.jpg&d=DwIGaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=iDIDxoR9W_8J3_XsGKPi0A&m=wjJEVL0sOVtPHgl9lgFkhNoOll97mcAQoL_OEWVjfBw&s=38p15IKpQe12vdMFgOim97mbHhjAbu6AVUWReUPR7IM&e= )
@@ -38,8 +36,7 @@ DAY 2 （上午1-3，下午4-6）
 
 7. **Black Raven Pirate Ship** <u>111 Avenida Menendez, St. Augustine, FL 32084</u>: 两个活动可选 [a. *The Treasure Hunt*, $34.99/adult, 6:15pm, last 1.5 hours; *Rum Runner Cruise*, $29.99/adult, age 21+, 8 pm, last 2 hours] 买票入口：https://urldefense.proofpoint.com/v2/url?u=https-3A__www.blackravenadventures.com_buy-2Dtickets-2Donline-21-5BBlack&d=DwIGaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=iDIDxoR9W_8J3_XsGKPi0A&m=wjJEVL0sOVtPHgl9lgFkhNoOll97mcAQoL_OEWVjfBw&s=FiMap_0KRw_BuHjTseJEA5oDDqqJw4zKcmxMFTb4vc4&e=  Raven Pirate Ship Scenic Tours | Sailing, Boat, Sailing ships](https://urldefense.proofpoint.com/v2/url?u=https-3A__i.pinimg.com_originals_6a_97_76_6a97765b3a2086b2b948ee1461200e7b.jpg&d=DwIGaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=iDIDxoR9W_8J3_XsGKPi0A&m=wjJEVL0sOVtPHgl9lgFkhNoOll97mcAQoL_OEWVjfBw&s=PU2kTmAGOA9A_dBHYJ35H7hqg0jhLuzssSK3CnqjELs&e= ) 
 
-**TIPS**：用餐问题：当日的所有旅行景点如下图，由北至南的旅行路线，附近有hin多的seafood餐厅都阔以去的，圣乔治老街上也有很多墨西哥特色美食，所以吃就不用担心啦～![image-20200702174306938](/Users/mirandazhou/Library/Application Support/typora-user-images/image-20200702174306938.png)
-
+**TIPS**：用餐问题：当日的所有旅行景点如下图，由北至南的旅行路线，附近有hin多的seafood餐厅都阔以去的，圣乔治老街上也有很多墨西哥特色美食，所以吃就不用担心啦～![image-20200702174306938]
 DAY 3
 
 1. St. Augustine Distillery Company <u>112 Riberia St, St. Augustine, FL 32084</u> (10am-18pm):1907年成立，佛罗里达最早的冰厂，后来成立酿酒厂。估计没法去，21+。门口拍照。![Craft Breweries, Wineries and Distilleries | Florida's Historic Coast](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.floridashistoriccoast.com_imager_s3-5Fus-2Deast-2D1-5Famazonaws-5Fcom_st-2Daugustine-2D2019_images_Partner-2DProfile-2DImages_ST-5FAUGUSTINE-5FDISTILLERY-5F1059925dafc489659acd47a728e6733c.jpg-29-21-5BQu-27est-2Dce&d=DwIGaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=iDIDxoR9W_8J3_XsGKPi0A&m=wjJEVL0sOVtPHgl9lgFkhNoOll97mcAQoL_OEWVjfBw&s=TV2AzmInbpojGZZi_2MrMEqHwihqbj1MAeEtQOSVJqY&e=  qu'une Craft Beer ?](https://urldefense.proofpoint.com/v2/url?u=https-3A__lh5.googleusercontent.com_K81eM9-5Fz8XzzP5Gd7EfaixbyDZb7B4jDvs0Qb8ivjd2IMy2tkpDy0wmRMxD1TLLm79gQKQCIIl3sbocdVMkJRjrGD4VrJeVUVdDQeXCSiEyTQWemsprnXFDtv-5FJg9h-5F5OchMyZVi&d=DwIGaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=iDIDxoR9W_8J3_XsGKPi0A&m=wjJEVL0sOVtPHgl9lgFkhNoOll97mcAQoL_OEWVjfBw&s=2Ir6kJdDrwfbTJPj-xnlQE55asK-dqyO3BXin2EIsko&e= )
@@ -54,6 +51,5 @@ DAY 3
 
 4. **St. Augustine Alligator Farm Zoological Park** $26.99 <u>999 Anastasia Blvd, St. Augustine, FL 32080</u>:圣奥古斯丁鳄鱼园动物园是佛罗里达最古老的连续运行景点之一，于1893年5月20日开业。它不仅拥有24种鳄鱼，还拥有多种其他爬行动物，哺乳动物和鸟类，以及展览，动物表演和教育示范。 买票入口：https://urldefense.proofpoint.com/v2/url?u=https-3A__shop.alligatorfarm.com_-23_Admission&d=DwIGaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=iDIDxoR9W_8J3_XsGKPi0A&m=wjJEVL0sOVtPHgl9lgFkhNoOll97mcAQoL_OEWVjfBw&s=Cz7eO3ULS9ES1sdIIcLN9ZAj2xK4WbcDP5yOk7f7QFg&e= <img src="https://urldefense.proofpoint.com/v2/url?u=https-3A__assets0.roadtrippers.com_uploads_poi-5Fgallery-5Fimage_image_374768251_-2Dquality-5F60-5F-2Dinterlace-5FPlane-5F-2Dresize-5F640x360-5FU-5F-5F-2Dgravity-5Fcenter-5F-2Dextent-5F640x360_place-5Fimage-2Dimage-2D9fc67e84-2D8cce-2D46f3-2D861b-2D8b8be5440410.jpg&d=DwIGaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=iDIDxoR9W_8J3_XsGKPi0A&m=wjJEVL0sOVtPHgl9lgFkhNoOll97mcAQoL_OEWVjfBw&s=BtrgW6drm0dUbAENnjR5x_YrHm31-GjDOZntVCMTgJ4&e= " alt="St. Augustine Alligator Farm Zoological Park, St. Augustine - FL ..." style="zoom:150%;" /><img src="https://urldefense.proofpoint.com/v2/url?u=https-3A__media-2Dcdn.tripadvisor.com_media_photo-2Ds_05_3d_13_e9_st-2Daugustine-2Dalligator.jpg&d=DwIGaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=iDIDxoR9W_8J3_XsGKPi0A&m=wjJEVL0sOVtPHgl9lgFkhNoOll97mcAQoL_OEWVjfBw&s=8HfYWOEY--Lembcmf0zqPWZgJ_2LQsEia-o_7vc1UxQ&e= " alt="St. Augustine Alligator Farm Zoological Park - 2020 All You Need ..." style="zoom:150%;" />![ATTRACTIONS & EXHIBITS – St. Augustine Alligator Farm Zoological Park](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.alligatorfarm.com_wp-2Dcontent_uploads_2015_03_SAAF-5FMap071918.jpg&d=DwIGaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=iDIDxoR9W_8J3_XsGKPi0A&m=wjJEVL0sOVtPHgl9lgFkhNoOll97mcAQoL_OEWVjfBw&s=ptxt81jvzccNY53ZB-7q-TL4tZjKmcIMqJk4JGnOE-M&e= )
 
-TIP：关于旅行路线，沿路有hin多吃的。![image-20200702180646856](/Users/mirandazhou/Library/Application Support/typora-user-images/image-20200702180646856.png)
-
+TIP：关于旅行路线，沿路有hin多吃的。
 快乐的圣奥古斯丁之旅就这么结束了哈哈哈哈。
