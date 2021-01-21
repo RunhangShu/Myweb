@@ -17,7 +17,7 @@ Gnainsky et al., 2021 *Cell Reports*
 
   * Thoughts: Basicly, they did some qPCR screenings as the first step. It points out a noval insight of mitochondrial gene and transcriptional responses to microbiome removal. The first piece of results stand alone can be put in *Plos one* but the authors continued to delineate more (such as the functions)!
 
-2. From gene level to function level: they first measured **mitochondrial membrain potential (staining TMRE and YFP)** of various egg chamber stage (0-9), as an index of mitochondrial function; Subsequently, ATP anf ADP levels of whole body, mature oocytes, and head were quantified using qLC-MS. OK, now a systemical reduction in GF fly energy was observed, the next step is to confirm the corelation: **Is the reduction in mitochondrial function resulted in the repressed oogenesis in GF flies? **
+2. From gene level to function level: they first measured **mitochondrial membrain potential (staining TMRE and YFP)** of various egg chamber stage (0-9), as an index of mitochondrial function; Subsequently, ATP anf ADP levels of whole body, mature oocytes, and head were quantified using qLC-MS. OK, now a systemical reduction in GF fly energy was observed, the next step is to confirm the corelation: **Is the reduction in mitochondrial function resulted in the repressed oogenesis in GF flies?**
 
 3. Following the rationale of step2, the authors inhibited mitochondrial function by adding chemical inhibitor rotenome in the diet (permit bacterial growth). They found 25 uM of rotenone was sufficient to repress oogenesis, which mimicked the impact of bacterial removal. 
 
