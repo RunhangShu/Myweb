@@ -7,7 +7,7 @@ date: '2021-01-21'
 
 #### Systemic Regulation of Host Energy and Oogenesis by Microbiome-Derived Mitochondrial Coenzymes
 
-Gnainsky et al., 2021 *Cell Reports* 
+Gnainsky et al., 2021 *Cell Reports* DOI:https://doi.org/10.1016/j.celrep.2020.108583 
 
 ### Systems: Female Drosophila melanogaster
 
@@ -27,6 +27,14 @@ Gnainsky et al., 2021 *Cell Reports*
 
 5.  So far, they had understood that 1)reduction in oogenesis is a result of supressed mitochondrial function in follicle cells. 2) GF flies showed decreased mitochondrial membrain potenial and energy turnover. **But, what are the molecular mechanisms mediated by the bacteria?**
 
-6. To start with, they probably started looking into literature and interrogated that why the bacterial symbiont - *Acetobacter spp.* can modulate mitochondrial activities? which pathway? 
+6. To start with, they probably started looking into literature and interrogated that why the bacterial symbiont - *Acetobacter spp.* can modulate mitochondrial activities? which pathway? Indeed, studies in Drosophila showed the symbiotic microbes are an integral part of the host nutrition including B vitamin provisioning (Wong et al., 2014; Sannino et al., 2018). Since vitamin B2 (RbF) is the precursor for two essential mitochondrial coenzymes (FAD and FMN), the authors therefore feed GF flies with dietary RbF. The results are remarkble: supplementation of RbF completely restored mitochondrial membrane potential, and patially restored the ATP levels in the ovary of GF flies. 
 
+7. Metabolomics data (whole body and overy) support the GF's reduction in metabolites involved in main energy pathways including TCA cycle, Glycolysis, Pentose phosphate pathway. Higher levels of amino acids and lipids were observed in GF flies. 
+
+8. The metabolites higher in GF flies are mostly known to be degraded by FAD-dependent enzymes. So the authors did "gain of function" assay: supplemented the RbF to GF again and measured the metabolites.  
+
+9. Finally, they found the links between their hypothesis of *Acetobacter*-mediated mitochondrial function with another independent study that showed *Acetobacter*-mediated *Aldh* expression (Elgart et al., 2016).
+
+### Closing Remarks
+I assume this lab does not specialize in bacterial genomics. Otherwise, they should address the key question that has not been considered in this study: Does *Acetobacter spp* directly encode RbF, if so, which gene? However, they used a very smart way to skip deal with bacterium genome by using RbF supplementation. This is my only criticism about this nice paper.  
 
