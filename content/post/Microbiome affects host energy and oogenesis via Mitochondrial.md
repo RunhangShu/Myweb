@@ -36,5 +36,5 @@ Gnainsky et al., 2021 *Cell Reports* DOI:https://doi.org/10.1016/j.celrep.2020.1
 9. Finally, they found the links between their hypothesis of *Acetobacter*-mediated mitochondrial function with another independent study that showed *Acetobacter*-mediated *Aldh* expression (Elgart et al., 2016).
 
 ### Closing Remarks
-I assume this lab does not specialize in bacterial genomics. Otherwise, they should address the key question that has not been considered in this study: Does *Acetobacter spp* directly encode RbF, if so, which gene? However, they used a very smart way to skip deal with bacterium genome by using RbF supplementation. This is my only criticism about this nice paper.  
+I assume this lab does not specialize in bacterial genomics. Otherwise, they should address the key question that has not been considered in this study: Does *Acetobacter spp* express genes such as *ribF* that encodes FMN and FAD in the flavin biosynthesis? However, they used a very smart way to skip dealing with bacterium genomics by using RbF supplementation. This is my only criticism about this nice paper.  
 
