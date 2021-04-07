@@ -29,9 +29,7 @@ date: '2021-04-06'
 
 ## Step4: Ripe off the thorax and pin the abdoben (dorsal side) with four pins 
 
-<img src="/post/pics/fatbody_fig5.jpg" alt="" width="400px" height="600px"/>
-
-Now, we can see the fat body interconnect with all trachea. 
+Now, we can see the fat body is attaching with the trachea. 
 
 <img src="/post/pics/fatbody_fig5.jpg" alt="" width="400px" height="600px"/>
 <img src="/post/pics/drosophila_fatbody.jpg" alt="" width="600px" height="600px"/>
