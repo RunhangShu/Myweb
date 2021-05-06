@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Runhang's website"
-theme = "hugo-lithium"
+theme = "hugo-ivy-master"
 googleAnalytics = ""
 disqusShortname = "https-www-runhangshu-com"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
